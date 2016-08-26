@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.to2mbn:jmccc:2.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/to2mbn/jmccc-parent/3.0-SNAPSHOT/jmccc-parent-3.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/to2mbn/jmccc-parent/3.0-SNAPSHOT/jmccc-parent-3.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/to2mbn/jmccc-parent/3.0-SNAPSHOT/jmccc-parent-3.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
